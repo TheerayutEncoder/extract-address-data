@@ -65,6 +65,6 @@ if __name__ == "__main__":
 
     # convert response to csv format
 
-    # Example 
+    # Example
     # result = '41/101, นวมินทร์24, บึงกุ่ม, คลองกุ่ม, กทม., 74000'
     # convert_result_to_csv(result)
